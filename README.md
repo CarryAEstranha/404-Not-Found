@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-![Front](https://user-images.githubusercontent.com/53675070/146688548-3b927641-fc4a-42f9-9072-06b38b8c5ffd.png)
+![front](https://user-images.githubusercontent.com/53675070/168023463-dac739ea-7cc1-4343-a100-58b3297c8c30.png)
 
 ### Links
 
