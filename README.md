@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,7 +13,7 @@
 
 ### Screenshot
 
-![front](https://user-images.githubusercontent.com/53675070/168023463-dac739ea-7cc1-4343-a100-58b3297c8c30.png)
+![front](https://user-images.githubusercontent.com/53675070/168023722-bcef5dea-a391-47bc-8e16-650f30dad194.png)
 
 ### Links
 
